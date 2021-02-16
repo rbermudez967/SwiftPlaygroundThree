@@ -33,3 +33,21 @@ for name in fruitNames
 
 print (fruitNames[1])
 
+//part 9
+//problem set 1-1
+
+var hotWheels = [String] ()
+
+hotWheels = ["McLaren", "Mercedes", "Aston Martin", "Corvette", "Lamborghini", "Tesla", "Porsche", "Ferrari"]
+
+//problem set 1-2
+
+for name1 in hotWheels
+{
+    print (name1 + " is a very expensive car")
+    
+}
+
+//problem set 1-3
+
+print (hotWheels[0])
